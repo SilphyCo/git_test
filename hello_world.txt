@@ -2,3 +2,4 @@ Oliver
 hobo
 i love me
 practiciing git is powerful
+Add a new name txt
